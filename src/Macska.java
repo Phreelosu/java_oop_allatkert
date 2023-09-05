@@ -1,4 +1,5 @@
-class Cat extends Allat {
-
-Cat mici = new Cat();
-mici.hangotad();
+public class Macska extends Allat {
+    public void dorombol() {
+        System.out.println("Grrr...");
+    }
+}
